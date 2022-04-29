@@ -15,6 +15,9 @@ This repository is partially referenced by [https://github.com/DanySK/Template-E
 ## Using the project
 
 1. Download or git clone this repository
-2. Follow the tutorial guide (If you have followed this tutorial OR you have your own method to compile, please ignore this step.)
-3. Just compile cas-dc-template.tex with pdflatex compilation method
+2. **Follow the [tutorial guide](https://www.studyzzz.top/1574.html)** (If you have followed this tutorial OR you have your own method to compile, please ignore this step.)
+3. Place the figures into folder named "**figs**" and **write your manuscripts**.
+4. Just compile **cas-dc-template.tex** with **pdflatex** compilation method to generate **Manuscript** file.
+5. Check you have **Cover Letter**, **Hightlights**, **Declaration of Competing Interest** or not!!! They are the files that **must upload** to **Editorial Manager Submission System**  . You can write and upload them in word (.doc .docx).
+3. If you finish writing, before you upload zip file. Use **createUploadFiles.py** to make files satisfy Editorial Manager's requirements. Because **Editorial Manager unsupport subfloders.**
 
